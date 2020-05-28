@@ -1,0 +1,6 @@
+{
+  "apiURL": "http://localhost:9001/api",
+  "bugs": "/bugs",
+  "projects": "/projects",
+  "users": "/users"
+}
